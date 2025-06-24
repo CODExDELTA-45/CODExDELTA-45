@@ -1,8 +1,12 @@
 # 💫About Me :
 👋 Hi, I'm a tech enthusiast who loves turning ideas into code.
+
 💻 I build web apps, automate workflows, and experiment with new tech.
+
 🚀 Passionate about open source, clean code, and lifelong learning.
+
 🧠 Always exploring new frameworks, languages, and best practices.
+
 🔗 Let’s build something amazing — collaboration is welcome!
 
 ## 🌐Socials
